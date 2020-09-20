@@ -1,0 +1,114 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+:root {
+  --display-flex: flex;
+  --primary-color: #0d4f8b;
+  --color-black: #000000;
+  --color-white: #ffffff;
+}
+.container {
+  padding: 0.875rem;
+}
+.container > .header {
+  display: var(--display-flex);
+  box-shadow: 1px 0 5px 0 #e1e1e1;
+  height: 80px;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  background-color: var(--color-white);
+  left: 0;
+  right: 0;
+  top: 0;
+}
+.container > .header p {
+  color: var(--primary-color);
+  -webkit-text-stroke: 1.3px #333333;
+  font-size: 1.8rem;
+  font-weight: 600;
+  padding: 0 0.875rem;
+}
+.container > .header select {
+  height: 34px;
+  width: 20%;
+  margin-right: 0.875rem;
+  outline: none;
+  border: 2px solid var(--primary-color);
+  border-radius: 3px;
+}
+.container > .top > ul {
+  display: var(--display-flex);
+  list-style-type: none;
+  flex-wrap: wrap;
+  padding-top: 90px;
+}
+.top > ul > li {
+  padding: 0.875rem;
+  border-radius: 3px;
+  background: linear-gradient(180deg, var(--primary-color), #104e8b, #7d9ec0);
+  color: var(--color-white);
+  border-bottom: 2px outset #7d9ec0;
+  border-left: 2px outset #7d9ec0;
+  width: 20%;
+  margin: 0 0.75rem;
+}
+.top > ul > li > p {
+  line-height: 35px;
+}
+.container .middle {
+  display: var(--display-flex);
+  justify-content: center;
+  margin-top: 78px;
+  margin-bottom: 48px;
+}
+.middle > .graphWrapper {
+  border: 2px solid var(--primary-color);
+  height: 500px;
+  width: 900px;
+}
+.bottom {
+  display: var(--display-flex);
+  align-items: center;
+  flex-direction: column;
+}
+.bottom > table {
+  width: 90%;
+  margin: 0 0.875rem;
+  border: 2px solid var(--primary-color);
+  margin-bottom: 24px;
+  border-collapse: collapse;
+}
+.bottom > table th {
+  color: var(--primary-color);
+}
+.bottom > table td.status-inp {
+  color: goldenrod;
+}
+.bottom > table td.status-comp {
+  color: darkgreen;
+}
+.bottom > table td.status-cancel {
+  color: red;
+}
+.bottom > table td,
+.bottom > table th {
+  border: 2px solid var(--color-black);
+  text-align: left;
+  padding: 0 0.75rem;
+  height: 32px;
+}
+.bottom > table th {
+  background-color: var(--primary-color);
+  color: var(--color-white);
+}
+.bottom > table > caption {
+  text-align: left;
+  color: var(--primary-color);
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-bottom: 14px;
+}

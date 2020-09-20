@@ -1,0 +1,34 @@
+[
+    {
+        "username": "Ritika Aneja",
+        "totalAmount": 45,
+        "totalQuantity":1,
+        "city": "Rajpura"
+       
+    },
+    {
+        "username": "Vishu Srivastva",
+        "totalAmount": 62,
+        "totalQuantity":1,
+        "city": "Panaji"
+    },
+    {
+        "username": "Alok Malhotra",
+        "totalAmount": 300,
+        "totalQuantity":2,
+        "city": "Patna"
+    },
+    {
+        "username": "Keerti Bedi",
+        "totalAmount": 310,
+        "totalQuantity":2,
+        "city": "Bareilley"
+    },
+    {
+        "username": "Surjeet Kaur",
+        "totalAmount": 425,
+        "totalQuantity":1,
+        "city": "Ludhiana"
+    }
+
+]

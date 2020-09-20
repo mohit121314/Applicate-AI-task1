@@ -1,0 +1,50 @@
+[
+    {
+        "orderdate": "2019/01/02",
+        "totalamount": 20
+    },
+    {
+        "orderdate": "2019/01/15",
+        "totalamount": 30
+    },
+    {
+        "orderdate": "2019/02/19",
+        "totalamount": 10
+    },
+    {
+        "orderdate": "2019/03/12",
+        "totalamount": 15
+    },
+    {
+        "orderdate": "2019/05/15",
+        "totalamount": 57
+    },
+    {
+        "orderdate": "2019/06/22",
+        "totalamount": 29
+    },
+    {
+        "orderdate": "2019/07/30",
+        "totalamount": 34
+    },
+    {
+        "orderdate": "2019/09/10",
+        "totalamount": 43
+    },
+    {
+        "orderdate": "2019/10/20",
+        "totalamount": 32
+    },
+    {
+        "orderdate": "2019/11/29",
+        "totalamount": 27
+    },
+    {
+        "orderdate": "2019/12/25",
+        "totalamount": 52
+    },
+    {
+        "orderdate": "2020/01/16",
+        "totalamount": 61
+    }
+]

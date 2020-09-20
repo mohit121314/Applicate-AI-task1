@@ -1,0 +1,32 @@
+[
+    {
+        "username": "Riya Agnihotri",
+        "totalAmount": 8500,
+        "totalQuantity": 4,
+        "city": "Ahemdabad"
+    },
+    {
+        "username": "Maya Sachdeva",
+        "totalAmount": 7200,
+        "totalQuantity": 3,
+        "city": "Udaipur"
+    },
+    {
+        "username": "Mayank Saini",
+        "totalAmount": 5320,
+        "totalQuantity": 2,
+        "city": "Chennai"
+    },
+    {
+        "username": "Navneet Sodhi",
+        "totalAmount": 4050,
+        "totalQuantity": 3,
+        "city": "Jalandhar"
+    },
+    {
+        "username": "Simrat Kukreja",
+        "totalAmount": 4000,
+        "totalQuantity": 2,
+        "city": "Mumbai"
+    }
+]

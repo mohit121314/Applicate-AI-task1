@@ -1,0 +1,110 @@
+[
+    {
+        "username": "Jiya Arneja",
+        "orderno": 5204899821,
+        "orderdate": "23/09/2019",
+        "status": "Completed",
+        "totalamount": 8000,
+        "totalqty": 6,
+        "totalproductcount": 6
+    },
+    {
+        "username": "Arjun Bijlani",
+        "orderno": 9108001242765,
+        "orderdate": "31/12/2019",
+        "status": "Completed",
+        "totalamount": 2000,
+        "totalqty": 1,
+        "totalproductcount": 1
+    },
+    {
+        "username": "Sonali Mahindroo",
+        "orderno": 111206688343,
+        "orderdate": "10/01/2020",
+        "status": "Cancelled",
+        "totalamount": 8000,
+        "totalqty": 1,
+        "totalproductcount": 1
+    },
+    {
+        "username": "Gaurav Saini",
+        "orderno": 7770173133,
+        "orderdate": "19/03/2020",
+        "status": "Completed",
+        "totalamount": 6570,
+        "totalqty": 3,
+        "totalproductcount": 8
+    },
+    {
+        "username": "Saurav Maurya",
+        "orderno": 5297123322,
+        "orderdate": "12/04/2020",
+        "status": "Cancelled",
+        "totalamount": 8000,
+        "totalqty": 1,
+        "totalproductcount": 1
+    },
+    {
+        "username": "Kriti Menon",
+        "orderno": 3123212421567,
+        "orderdate": "20/04/2020",
+        "status": "Completed",
+        "totalamount": 2350,
+        "totalqty": 2,
+        "totalproductcount": 2
+    },
+    {
+        "username": "Maira Mukherjee",
+        "orderno": 102789493,
+        "orderdate": "29/04/2020",
+        "status": "Cancelled",
+        "totalamount": 3400,
+        "totalqty": 1,
+        "totalproductcount": 1
+    },
+    {
+        "username": "Celina Andrews",
+        "orderno": 20992134453,
+        "orderdate": "19/06/2020",
+        "status": "Completed",
+        "totalamount": 1248,
+        "totalqty": 2,
+        "totalproductcount": 2
+    },
+    {
+        "username": "Gayatri Choudhary",
+        "orderno": 390924143,
+        "orderdate": "20/08/2020",
+        "status": "In Progress",
+        "totalamount": 1089,
+        "totalqty": 1,
+        "totalproductcount": 1
+    },
+    {
+        "username": "Ravina Bansal",
+        "orderno": 14395250932,
+        "orderdate": "29/08/2020",
+        "status": "Cancelled",
+        "totalamount": 3589,
+        "totalqty": 6,
+        "totalproductcount": 10
+    },
+    {
+        "username": "Kajal Mehra",
+        "orderno": 679874314344,
+        "orderdate": "13/09/2020",
+        "status": "In Progress",
+        "totalamount": 5289,
+        "totalqty": 3,
+        "totalproductcount": 3
+    },
+    {
+        "username": "Malini Mishra",
+        "orderno": 5232106688343,
+        "orderdate": "18/09/2020",
+        "status": "In Progress",
+        "totalamount": 2389,
+        "totalqty": 3,
+        "totalproductcount": 10
+    }
+]
